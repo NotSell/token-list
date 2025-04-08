@@ -2,7 +2,7 @@
   "chainId": 101,
   "address": "CStDasGC7Pc4hr831FWWgWU9hV5wjhwwrH3CLRgDNMo2",
   "symbol": "NSC",
-  "name": "Not Sell Coin",
+  "name": "Not Sell",
   "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/NotSell/token-list/main/assets/mainnet/CStDasGC7Pc4hr831FWWgWU9hV5wjhwwrH3CLRgDNMo2/logo.png",
   "tags": ["utility-token", "community", "meme"],
