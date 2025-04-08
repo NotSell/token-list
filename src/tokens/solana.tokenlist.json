@@ -2,8 +2,16 @@
   "chainId": 101,
   "address": "CStDasGC7Pc4hr831FWWgWU9hV5wjhwwrH3CLRgDNMo2",
   "symbol": "NSC",
-  "name": "Not Sell",
+  "name": "Not Sell Coin",
   "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/NotSell/token-list/main/assets/mainnet/CStDasGC7Pc4hr831FWWgWU9hV5wjhwwrH3CLRgDNMo2/logo.png",
-  "tags": ["utility-token", "meme"]
+  "tags": ["utility-token", "community", "meme"],
+  "extensions": {
+    "website": "https://nsc-notsell.netlify.app/",
+    "twitter": "https://x.com/Notsell_NSC",
+    "telegram": "https://t.me/NotsellNSC",
+    "discord": "https://discord.gg/EKR7BRSJFD",
+    "youtube": "https://www.youtube.com/@NotSellOfficial",
+    "description": "NSC: Lock It, Hold It, Love It! Built to Hold, Designed to Grow."
+  }
 }
